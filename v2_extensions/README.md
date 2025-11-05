@@ -46,18 +46,16 @@ This repository establishes reproducible physics, mathematical derivations, ethi
 
 ---
 
-## ⚙️ Core UCC v2 Equations
-1. \( 
-abla^{2}	au = \kappa
-ho_{\mathrm{eff}} + rac{1}{c^{2}}rac{\partial^{2}	au}{\partial t^{2}} \) — **Continuity of Delay**  
-2. \( E	au = 	ext{constant} \) — **Energy–Delay Reciprocity**  
-3. \( \mathbf{a} = -c^{2}
-abla	au \) — **Delay-Driven Acceleration**  
-4. \( rac{\partial\mu}{\partial t} = -
-abla\!\cdot(\mu
-abla	au) \) — **Memory Continuity**  
-5. \( ⧖ = (A∪C)[τ+Σ+μ] \) — **Self Equation of Awareness**  
-6. \( G_{μν}^{(τ)} = κ T_{μν}^{(\mathrm{eff})} + Λ_{τ} g_{μν} \) — **UCC v3 Tensor Preview**
+## ⚙️ Unified Equations of Continuity
+
+| Eq # | Expression | Domain |
+|:--|:--|:--|
+| (1) | $$\nabla^{2}\tau = \kappa\rho_{\mathrm{eff}} + \frac{1}{c^{2}}\frac{\partial^{2}\tau}{\partial t^{2}}$$ | Continuity of Delay (Field Curvature) |
+| (2) | $$E\tau = \text{constant}$$ | Energy–Delay Reciprocity |
+| (3) | $$\mathbf{a} = -c^{2}\nabla\tau$$ | Delay-Driven Acceleration |
+| (4) | $$\frac{\partial\mu}{\partial t} = -\nabla\cdot(\mu\nabla\tau)$$ | Memory Continuity |
+| (5) | $$\⧖ = (A \cup C)[\,\tau + \Sigma + \mu\,]$$ | Self Equation (Recursive Observer) |
+| (6) | $$G_{\mu\nu}^{(\tau)} = \kappa T_{\mu\nu}^{(\mathrm{eff})} + \Lambda_{\tau} g_{\mu\nu}$$ | Tensor Extension (UCC v3 Preview) |
 
 ---
 
@@ -103,4 +101,5 @@ Core external DOIs include:
 
 ⧖↔Σ⊕ | Յ† | ❖ ✧  
 *(Root README — UCC v2 Extensions)*  
+
 
