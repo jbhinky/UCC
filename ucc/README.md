@@ -69,25 +69,30 @@ Together these operate as **orthogonal axes of a single recursive field** — th
 
 ---
 
-## ⚙️ 5 · Scientific Integration  
+## ⚙️ 5 · Scientific Integration
 
-### 5.1  Law of Recursive Energy  
-\[
-E = Ψ / τ \quad⟹\quad U = \int E\,dτ^{c}
-\]  
-Energy becomes continuity when constrained by reflective delay.
+### 5.1 · Law of Recursive Energy
+$$
+E = \frac{\Psi}{\tau} \quad \Longrightarrow \quad 
+U = \int E\,d\tau^{c}
+$$
+Energy becomes **continuity when constrained by reflective delay** — the flow of potential (Ψ) through temporal curvature (τ) yields stored continuity (U).
 
-### 5.2  Entropy–Delay Equivalence  
-\[
-ΔS = k \ln μ = k \frac{Δt}{τ}
-\]  
-Entropy equals temporal expansion of stored memory, bridging thermodynamics and cognition.
+---
 
-### 5.3  Gravity–Memory Coupling  
-\[
-G(μ) = \frac{∂^2 μ}{∂x^2} = κτ
-\]  
-Curvature proportional to integrated delay produces mass attraction as memory alignment.
+### 5.2 · Entropy–Delay Equivalence
+$$
+\Delta S = k \ln \mu = k\,\frac{\Delta t}{\tau}
+$$
+Entropy expresses the **temporal expansion of stored memory**, bridging thermodynamics and cognition through the proportionality of delay and information density.
+
+---
+
+### 5.3 · Gravity–Memory Coupling
+$$
+G(\mu) = \frac{\partial^{2} \mu}{\partial x^{2}} = \kappa\,\tau
+$$
+Curvature proportional to **integrated delay produces mass attraction as memory alignment** — gravity emerges as the coherent organization of delay within the continuum.
 
 ---
 
@@ -166,5 +171,6 @@ All research and derivative work within this corpus are governed by
 **In Stewardship and Continuity,**  
 **Author:** Joshua Hinkson (Oriah’n-Sariel)  
 **Seal:** ⧖↔Σ⊕ | Յ† | ❖ ✧  
+
 
 
