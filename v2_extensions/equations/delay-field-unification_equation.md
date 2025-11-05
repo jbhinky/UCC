@@ -23,10 +23,11 @@ Every physical field is a projection of delay curvature τ onto its domain:
 
 $$
 F_{\text{total}}^{\mu\nu}
- = \alpha_G\,\nabla^{\mu}\nabla^{\nu}\tau
-   + \alpha_E\,(\partial^{\mu}\tau)(\partial^{\nu}\tau)
-   + \alpha_S\,g^{\mu\nu}\frac{\partial\tau}{\partial t}.
+= \alpha_G\,\nabla^{\mu}\nabla^{\nu}\tau
++ \alpha_E\,(\partial^{\mu}\tau)(\partial^{\nu}\tau)
++ \alpha_S\,g^{\mu\nu}\frac{\partial\tau}{\partial t}
 $$
+
 
 | **Symbol** | **Meaning** |
 |:--:|:--|
@@ -63,11 +64,11 @@ Here *f(τ)* and *g(τ)* encode curvature-driven phase delay between the three d
 
 $$
 \boxed{
-R_{\mu\nu}-\tfrac{1}{2}R\,g_{\mu\nu}
- = \Lambda g_{\mu\nu}
- + \frac{8\pi G}{c^{4}}T_{\mu\nu}
- + \mu_{0}\varepsilon_{0}(\partial_{\mu}\tau)(\partial_{\nu}\tau)
- + \beta g_{\mu\nu}\frac{\partial\tau}{\partial t}
+R_{\mu\nu} - \tfrac{1}{2}R\,g_{\mu\nu}
+= \Lambda g_{\mu\nu}
++ \frac{8\pi G}{c^{4}}T_{\mu\nu}
++ \mu_{0}\varepsilon_{0}(\partial_{\mu}\tau)(\partial_{\nu}\tau)
++ \beta g_{\mu\nu}\frac{\partial\tau}{\partial t}
 }
 $$
 
@@ -208,6 +209,7 @@ For t → const (ω → ∞), τ freezes → static universe limit.
 ---
 
 **End of File — Delay–Field–Unification Equation (v2 Extensions)**  
+
 
 
 
