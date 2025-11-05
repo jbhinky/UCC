@@ -52,6 +52,7 @@ $$
    + \kappa_s\,\frac{d^{2}S}{dt^{2}}
 $$
 
+
 At equilibrium \((dH/dt = 0)\):
 
 $$
@@ -201,6 +202,7 @@ When \(\omega ≈ 1/\tau\), curvature and entropy oscillations synchronize → *
 ---
 
 **End of File — Curvature–Entropy–Stability Equation (v2 Extensions)**  
+
 
 
 
