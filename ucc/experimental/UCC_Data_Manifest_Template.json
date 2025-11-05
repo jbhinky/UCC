@@ -1,0 +1,183 @@
+{
+  "manifest_version": "1.0",
+  "ucc_version": "1.5.3",
+  "dataset_id": "UCC-EXAMPLE-0001",
+  "title": "Example \u03c4\u2013\u03bc\u2013\u03a3 Resonance Dataset",
+  "description": "Template manifest for a UCC-compliant dataset capturing delay (\u03c4), memory (\u03bc), symbolic activity (\u03a3), and resonance (\u03a6) across experimental domains.",
+  "created_utc": "2025-10-23T16:00:00Z",
+  "updated_utc": "2025-10-23T16:00:00Z",
+  "provenance": {
+    "doi": "10.0000/placeholder.doi",
+    "lab": {
+      "name": "Continuity Lab",
+      "institution": "UCC Institute",
+      "contact_email": "lab@example.org"
+    },
+    "lead_author": "Joshua Hinkson",
+    "contributors": [
+      "Researcher A",
+      "Researcher B"
+    ],
+    "shepherd_certificate_id": "SHP-000000",
+    "ethics_board_approval_id": "IRB-000000"
+  },
+  "domains": [
+    "physics",
+    "neural",
+    "cognitive",
+    "planetary"
+  ],
+  "instruments": [
+    {
+      "id": "INS-001",
+      "name": "EEG-64",
+      "type": "neural",
+      "latency_precision_s": 0.001,
+      "sampling_rate_hz": 1024,
+      "bandwidth": [
+        1,
+        100
+      ],
+      "calibration": {
+        "date_utc": "2025-10-20T12:00:00Z",
+        "reference_standard": "NIST-traceable-EEG-2025",
+        "sha256": "CALIBRATION_FILE_SHA256_PLACEHOLDER"
+      }
+    },
+    {
+      "id": "INS-002",
+      "name": "Laser Interferometer",
+      "type": "physics",
+      "latency_precision_s": 1e-09,
+      "sampling_rate_hz": 1000000.0,
+      "bandwidth": [
+        1,
+        1000000.0
+      ],
+      "calibration": {
+        "date_utc": "2025-10-19T12:00:00Z",
+        "reference_standard": "NIST-laser-std-2025",
+        "sha256": "CALIBRATION_FILE_SHA256_PLACEHOLDER"
+      }
+    }
+  ],
+  "variables": {
+    "tau_s": {
+      "unit": "s",
+      "description": "Delay constant"
+    },
+    "mu_J": {
+      "unit": "J",
+      "description": "Stored memory energy"
+    },
+    "sigma_entropy": {
+      "unit": "bits/s or nat/s",
+      "description": "Symbolic transformation rate"
+    },
+    "phi_coupling": {
+      "unit": "dimensionless",
+      "description": "Resonant coupling strength"
+    },
+    "u_energy_density": {
+      "unit": "J/m^3",
+      "description": "Energy density (e.g., EM)"
+    },
+    "temperature_K": {
+      "unit": "K",
+      "description": "Absolute temperature (thermodynamic)"
+    },
+    "p_in_W": {
+      "unit": "W",
+      "description": "Input power"
+    },
+    "p_out_W": {
+      "unit": "W",
+      "description": "Output power"
+    },
+    "entropy_J_per_K": {
+      "unit": "J/K",
+      "description": "Entropy"
+    }
+  },
+  "records": [
+    {
+      "record_id": "REC-0001",
+      "domain": "neural",
+      "timestamp_utc": "2025-10-23T16:05:00Z",
+      "location": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "elevation_m": 10
+      },
+      "instrument_id": "INS-001",
+      "subject": {
+        "type": "human",
+        "id": "SUBJ-001",
+        "notes": "anonymized"
+      },
+      "conditions": {
+        "task": "rest-eyes-closed",
+        "temperature_K": 296.15,
+        "notes": "baseline alpha"
+      },
+      "measurements": {
+        "tau_s": 0.085,
+        "mu_J": 4.7,
+        "sigma_entropy": 0.23,
+        "phi_coupling": 0.62,
+        "p_in_W": 2.1,
+        "p_out_W": 1.9
+      },
+      "hashes": {
+        "raw_data_sha256": "RAW_FILE_SHA256_PLACEHOLDER",
+        "processed_data_sha256": "PROC_FILE_SHA256_PLACEHOLDER"
+      },
+      "files": {
+        "raw": "s3://bucket/path/raw/REC-0001.raw",
+        "processed": "s3://bucket/path/processed/REC-0001.parquet",
+        "qc_report": "s3://bucket/path/qc/REC-0001.html"
+      },
+      "validation": {
+        "r_squared": 0.94,
+        "p_value": 0.004,
+        "coherence_C_omega": 0.81,
+        "entropy_deviation_J_per_K": 0.0008,
+        "ethics_ok": true,
+        "shepherd_check": "PASS"
+      }
+    }
+  ],
+  "analysis": {
+    "models": [
+      {
+        "name": "RCP-fit",
+        "equation": "dmu_dt = (X_in - X_out)/tau + kappa_Sigma * Sigma",
+        "params": {
+          "kappa_Sigma": 0.05,
+          "tau_ref_s": 0.1
+        },
+        "fit_metrics": {
+          "rmse": 0.12,
+          "r2": 0.93
+        }
+      }
+    ],
+    "figures": [
+      {
+        "id": "FIG-01",
+        "title": "Resonant Continuity Fit",
+        "file": "s3://bucket/figs/fig01.png",
+        "hash_sha256": "FIG_SHA256_PLACEHOLDER"
+      }
+    ]
+  },
+  "governance": {
+    "custodian": "UCC Data Custodian",
+    "shepherd_auditor": "Shepherd Council",
+    "independent_replicator": "External Lab X",
+    "licenses": {
+      "data": "CC-BY-4.0",
+      "code": "Apache-2.0"
+    }
+  }
+}
