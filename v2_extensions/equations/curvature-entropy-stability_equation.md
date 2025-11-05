@@ -48,21 +48,23 @@ Differentiate in time:
 
 $$
 \frac{dH}{dt}
-= -\kappa_c\,\frac{d(\nabla^{2}\tau)}{dt}
-  + \kappa_s\,\frac{d^{2}S}{dt^{2}}
+ = -\,\kappa_c\,\frac{d(\nabla^{2}\tau)}{dt}
+   + \kappa_s\,\frac{d^{2}S}{dt^{2}}
 $$
 
-At equilibrium (\(dH/dt = 0\)):
+At equilibrium \((dH/dt = 0)\):
 
 $$
 \kappa_c\,\frac{d(\nabla^{2}\tau)}{dt}
-= \kappa_s\,\frac{d^{2}S}{dt^{2}}
+ = \kappa_s\,\frac{d^{2}S}{dt^{2}}
 $$
 
 The **rate of curvature relaxation equals the acceleration of entropy diffusion** —  
 a universal resonance law linking geometry and thermodynamics.
 
-**Dimensional check:** [dH/dt] = J m⁻³ s⁻¹ — both sides consistent (energy flux per volume). ✅
+**Dimensional check:**  
+\([dH/dt] = \mathrm{J\,m^{-3}\,s^{-1}}\)** — both sides consistent (energy flux per volume). ✅
+
 
 ---
 
@@ -199,5 +201,6 @@ When \(\omega ≈ 1/\tau\), curvature and entropy oscillations synchronize → *
 ---
 
 **End of File — Curvature–Entropy–Stability Equation (v2 Extensions)**  
+
 
 
