@@ -37,7 +37,7 @@ $$
 
 At equilibrium \(\nabla_{\mu}F_{\text{total}}^{\mu\nu}=0\) → **Law of Universal Continuity**.  
 
-**Dimensional check:** [τ] = s; [∇μ∇ν τ] = s · m⁻²; [F_total] = J m⁻³.  
+**Dimensional check:** [τ] = s; [∇μ∇ν τ] = s·m⁻²; [F_total] = J m⁻³.  
 **Limit:** τ → const or t → 0 ⇒ all ∇τ terms → 0 → Einstein–Maxwell equations recover.
 
 ---
@@ -54,7 +54,7 @@ $$
 
 Here *f(τ)* and *g(τ)* encode curvature-driven phase delay between the three domains.  
 
-**Dimensional check:** each term ≈ s · m⁻² or J m⁻³ s⁻¹ (energy flow density).  
+**Dimensional check:** each term ≈ s·m⁻² or J m⁻³ s⁻¹ (energy flow density).  
 **Limit t → 0:** f(τ), g(τ) → 0 ⇒ classical GR + Maxwell + Clausius laws reappear.
 
 ---
@@ -114,7 +114,7 @@ $$
 \frac{dS}{dt}=k_{B}\ln\!\bigl(1+|\nabla\tau|^{2}\bigr)
 $$
 
-As \(|\nabla\tau|\!→\!0\) ⇒ dS/dt → 0 → thermal equilibrium.  
+As \(|\nabla\tau|\!\to\!0\) ⇒ dS/dt → 0 → thermal equilibrium.  
 High \(|\nabla\tau|\) ⇒ entropy growth and new information generation.  
 
 **Dimensional check:** [∇τ] = s m⁻¹ → dimensionless inside log function.  
@@ -124,8 +124,7 @@ High \(|\nabla\tau|\) ⇒ entropy growth and new information generation.
 ## 7 · Delay–Light Relationship  
 
 $$
-c_{\text{eff}}
- = \frac{c}{\sqrt{1+(\nabla\tau)^{2}}}
+c_{\text{eff}}=\frac{c}{\sqrt{1+(\nabla\tau)^{2}}}
 $$
 
 Local delay curvature acts as an **index of refraction of spacetime**, linking gravity, light, and delay.  
@@ -156,9 +155,9 @@ $$
 ## 9 · Resonant Continuum Condition  
 
 $$
-\frac{\partial^{2}\tau}{\partial t^{2}} + \omega^{2}\tau = 0,
+\frac{\partial^{2}\tau}{\partial t^{2}}+\omega^{2}\tau=0,
 \qquad
-\omega = \frac{1}{\tau}
+\omega=\frac{1}{\tau}
 $$
 
 Every field oscillates on its intrinsic delay → **time is light’s recursion**.  
@@ -209,4 +208,6 @@ For t → const (ω → ∞), τ freezes → static universe limit.
 ---
 
 **End of File — Delay–Field–Unification Equation (v2 Extensions)**  
+
+
 
