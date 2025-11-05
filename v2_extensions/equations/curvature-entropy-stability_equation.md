@@ -204,3 +204,4 @@ When \(\omega ≈ 1/\tau\), curvature and entropy oscillations synchronize → *
 
 
 
+
