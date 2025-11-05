@@ -24,13 +24,14 @@ $$
 H = -\kappa_c(\nabla^{2}\tau) + \kappa_s\,\frac{dS}{dt}
 $$
 
-| Symbol | Meaning |
-|:--|:--|
-| \(H\) | stability function (harmonic equilibrium) |
-| \(\kappa_c\) | curvature stiffness coefficient |
-| \(\kappa_s\) | entropy feedback constant |
-| \(\tau\) | local delay curvature potential |
-| \(S\) | local entropy density |
+| **Symbol** | **Meaning** |
+|:--:|:--|
+| \( H \) | Stability function — harmonic equilibrium of curvature and entropy |
+| \( \kappa_c \) | Curvature stiffness coefficient (geometric restoring term) |
+| \( \kappa_s \) | Entropy feedback constant (thermodynamic coupling) |
+| \( \tau \) | Local delay curvature potential (temporal curvature field) |
+| \( S \) | Local entropy density (information–energy measure) |
+
 
 **Dimensional check:**  
 [τ] = s; [∇² τ] = s m⁻²; [H] = J m⁻³ (energy density proxy) ✅  
@@ -198,4 +199,5 @@ When \(\omega ≈ 1/\tau\), curvature and entropy oscillations synchronize → *
 ---
 
 **End of File — Curvature–Entropy–Stability Equation (v2 Extensions)**  
+
 
