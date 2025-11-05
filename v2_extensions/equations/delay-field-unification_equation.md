@@ -28,7 +28,6 @@ F_{\text{total}}^{\mu\nu}
 + \alpha_S\,g^{\mu\nu}\frac{\partial\tau}{\partial t}
 $$
 
-
 | **Symbol** | **Meaning** |
 |:--:|:--|
 | \(F_{\text{total}}^{\mu\nu}\) | Unified field tensor |
@@ -47,13 +46,13 @@ At equilibrium \(\nabla_{\mu}F_{\text{total}}^{\mu\nu}=0\) → **Law of Universa
 
 $$
 \begin{aligned}
-\nabla^{2}\tau &= \frac{8\pi G}{c^{4}}\,\rho_{\text{eff}}\tau  &&\text{(gravitational)}\\[4pt]
-\nabla\times(\nabla\times E) &= \mu_{0}\varepsilon_{0}\frac{\partial^{2}E}{\partial t^{2}} + f(\tau) &&\text{(electromagnetic)}\\[4pt]
-\frac{dS}{dt} &= \frac{1}{T}\frac{dE}{dt}= g(\tau) &&\text{(thermodynamic)}
+\nabla^{2}\tau &= \frac{8\pi G}{c^{4}}\,\rho_{\text{eff}}\tau &&\text{(gravitational)}\\[6pt]
+\nabla\times(\nabla\times E) &= \mu_{0}\varepsilon_{0}\frac{\partial^{2}E}{\partial t^{2}} + f(\tau) &&\text{(electromagnetic)}\\[6pt]
+\frac{dS}{dt} &= \frac{1}{T}\frac{dE}{dt} = g(\tau) &&\text{(thermodynamic)}
 \end{aligned}
 $$
 
-Here *f(τ)* and *g(τ)* encode curvature-driven phase delay between the three domains.  
+*f(τ)* and *g(τ)* encode curvature-driven phase delay between the three domains.  
 
 **Dimensional check:** each term ≈ s·m⁻² or J m⁻³ s⁻¹ (energy flow density).  
 **Limit t → 0:** f(τ), g(τ) → 0 ⇒ classical GR + Maxwell + Clausius laws reappear.
@@ -66,7 +65,7 @@ $$
 \boxed{
 R_{\mu\nu} - \tfrac{1}{2}R\,g_{\mu\nu}
 = \Lambda g_{\mu\nu}
-+ \frac{8\pi G}{c^{4}}T_{\mu\nu}
++ \frac{8\pi G}{c^{4}}\,T_{\mu\nu}
 + \mu_{0}\varepsilon_{0}(\partial_{\mu}\tau)(\partial_{\nu}\tau)
 + \beta g_{\mu\nu}\frac{\partial\tau}{\partial t}
 }
@@ -87,7 +86,7 @@ $$
 \;\Longleftrightarrow\;
 \frac{d\mu}{dt}=0,
 \qquad
-\mu=\int\tau\,dt.
+\mu=\int\tau\,dt
 $$
 
 Memory (μ) is the integrated trace of delay curvature.  
@@ -99,11 +98,11 @@ Perfect memory → energy conservation; energy loss → memory diffusion.
 
 | Scale | Reduced Form | Common Name |
 |:--|:--|:--|
-| Quantum | \( \partial^{2}\psi/\partial t^{2}=-(\hbar/m)\nabla^{2}\psi+f(\tau) \) | Schrödinger-delay form |
-| Atomic | \( \nabla^{2}\Phi=\rho\,\tau \) | Electrostatic potential |
-| Planetary | \( \nabla^{2}\Phi=4\pi G\rho\,\tau \) | Poisson gravity law |
-| Galactic | \( \nabla^{2}\tau=\Omega_{DM}\rho_{c} \) | Dark-matter curvature |
-| Cosmic | \( \nabla^{2}\tau=\Lambda\tau \) | Cosmological constant law |
+| Quantum | \( \frac{\partial^{2}\psi}{\partial t^{2}} = -\frac{\hbar}{m}\nabla^{2}\psi + f(\tau) \) | Schrödinger-delay form |
+| Atomic | \( \nabla^{2}\Phi = \rho\,\tau \) | Electrostatic potential |
+| Planetary | \( \nabla^{2}\Phi = 4\pi G\rho\,\tau \) | Poisson gravity law |
+| Galactic | \( \nabla^{2}\tau = \Omega_{DM}\rho_{c} \) | Dark-matter curvature |
+| Cosmic | \( \nabla^{2}\tau = \Lambda\tau \) | Cosmological constant law |
 
 **Limit t → 0:** All forms collapse to Poisson / ΛCDM solutions.
 
@@ -112,10 +111,10 @@ Perfect memory → energy conservation; energy loss → memory diffusion.
 ## 6 · Entropy–Curvature Feedback  
 
 $$
-\frac{dS}{dt}=k_{B}\ln\!\bigl(1+|\nabla\tau|^{2}\bigr)
+\frac{dS}{dt} = k_{B}\ln\!\bigl(1 + |\nabla\tau|^{2}\bigr)
 $$
 
-As \(|\nabla\tau|\!\to\!0\) ⇒ dS/dt → 0 → thermal equilibrium.  
+As \(|\nabla\tau| \to 0\) ⇒ dS/dt → 0 → thermal equilibrium.  
 High \(|\nabla\tau|\) ⇒ entropy growth and new information generation.  
 
 **Dimensional check:** [∇τ] = s m⁻¹ → dimensionless inside log function.  
@@ -125,7 +124,7 @@ High \(|\nabla\tau|\) ⇒ entropy growth and new information generation.
 ## 7 · Delay–Light Relationship  
 
 $$
-c_{\text{eff}}=\frac{c}{\sqrt{1+(\nabla\tau)^{2}}}
+c_{\text{eff}} = \frac{c}{\sqrt{1 + (\nabla\tau)^{2}}}
 $$
 
 Local delay curvature acts as an **index of refraction of spacetime**, linking gravity, light, and delay.  
@@ -137,9 +136,9 @@ When ∇τ → 0, \(c_{\text{eff}}\) → c → standard relativity limit.
 
 $$
 \rho_{\tau}
- = \tfrac{1}{2}\alpha_{G}|\nabla\tau|^{2}
- + \tfrac{1}{2}\alpha_{E}\!\left|\frac{\partial\tau}{\partial t}\right|^{2}
- + \alpha_{S}S(\tau)
+= \tfrac{1}{2}\alpha_{G}|\nabla\tau|^{2}
++ \tfrac{1}{2}\alpha_{E}\!\left|\frac{\partial\tau}{\partial t}\right|^{2}
++ \alpha_{S}S(\tau)
 $$
 
 | Term | Physical Meaning |
@@ -156,9 +155,9 @@ $$
 ## 9 · Resonant Continuum Condition  
 
 $$
-\frac{\partial^{2}\tau}{\partial t^{2}}+\omega^{2}\tau=0,
+\frac{\partial^{2}\tau}{\partial t^{2}} + \omega^{2}\tau = 0,
 \qquad
-\omega=\frac{1}{\tau}
+\omega = \frac{1}{\tau}
 $$
 
 Every field oscillates on its intrinsic delay → **time is light’s recursion**.  
@@ -208,7 +207,8 @@ For t → const (ω → ∞), τ freezes → static universe limit.
 
 ---
 
-**End of File — Delay–Field–Unification Equation (v2 Extensions)**  
+**End of File — Delay–Field–Unification Equation (v2 Extensions)**
+
 
 
 
