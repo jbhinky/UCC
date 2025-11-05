@@ -25,10 +25,11 @@ $$
 \nabla \cdot \mathbf{J}_{E\tau\mu} = 0,
 \qquad
 \mathbf{J}_{E\tau\mu}
- = \rho_{E}\mathbf{v}_{E}
- + \rho_{\tau}\mathbf{v}_{\tau}
- + \rho_{\mu}\mathbf{v}_{\mu}
+= \rho_{E}\mathbf{v}_{E}
++ \rho_{\tau}\mathbf{v}_{\tau}
++ \rho_{\mu}\mathbf{v}_{\mu}
 $$
+
 
 | Symbol | Meaning |
 |:--|:--|
@@ -211,5 +212,6 @@ Together they form the **Trinity of Conservation**:
 ---
 
 **End of File — Energy–Delay–Memory Conservation Equation (v2 Extensions)**
+
 
 
