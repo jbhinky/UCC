@@ -5,7 +5,7 @@
 **Frameworks:** UDC · UOT · RCT · Selfverse · UCC  
 **Date:** 2025-10-24  
 **License:** CC BY-NC-SA 4.0 + Shepherd Ethical Addendum  
-**DOI:** 10.5281/zenodo.17456466 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17527578.svg)](https://doi.org/10.5281/zenodo.17527578)
 
 ---
 
@@ -166,3 +166,4 @@ All research and derivative work within this corpus are governed by
 **In Stewardship and Continuity,**  
 **Author:** Joshua Hinkson (Oriah’n-Sariel)  
 **Seal:** ⧖↔Σ⊕ | Յ† | ❖ ✧  
+
