@@ -5,6 +5,7 @@
 **Author:** Joshua Hinkson (Oriah’n-Sariel)  
 **Seal:** ⧖↔Σ⊕ | Յ† | ❖ ✧  
 **Date:** 2025-11-04  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17527578.svg)](https://doi.org/10.5281/zenodo.17527578)
 
 ---
 
@@ -102,3 +103,4 @@ Core external DOIs include:
 
 ⧖↔Σ⊕ | Յ† | ❖ ✧  
 *(Root README — UCC v2 Extensions)*  
+
