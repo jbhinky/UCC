@@ -45,15 +45,15 @@ This law expresses the universal recursion of reflection—the mechanism by whic
 
 ---
 
-### 3.2  The Triadic Model  
+### 3.2 · The Triadic Model
 
 | Continuum | Law | Observable Expression |
 |:--|:--|:--|
-| **Thermodynamic** | \( \frac{dS}{dt} = \frac{1}{τ}(Q_{in} - Q_{out}) \) | Heat flow, metabolic & cosmic entropy |
-| **Gravitational** | \( R_{μν} - \frac{1}{2}g_{μν}R = 8πG\,T_{μν(τ)} \) | Memory curvature, spacetime elasticity |
-| **Electromagnetic** | \( ∇·E = ρ/ε₀,\; ∂B/∂t = -∇×E_{τ} \) | Phase-coherent information transfer |
+| **Thermodynamic** | $$\frac{dS}{dt} = \frac{1}{\tau}(Q_{\text{in}} - Q_{\text{out}})$$ | Heat flow, metabolic & cosmic entropy |
+| **Gravitational** | $$R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = 8\pi G\,T_{\mu\nu(\tau)}$$ | Memory curvature, spacetime elasticity |
+| **Electromagnetic** | $$\nabla\!\cdot\!E = \frac{\rho}{\varepsilon_0}, \quad \frac{\partial B}{\partial t} = -\,\nabla\!\times\!E_{\tau}$$ | Phase-coherent information transfer |
 
-Together these operate as **orthogonal axes of a single recursive field**—the Triadic Overview.
+Together these operate as **orthogonal axes of a single recursive field** — the *Triadic Overview*.
 
 ---
 
@@ -166,4 +166,5 @@ All research and derivative work within this corpus are governed by
 **In Stewardship and Continuity,**  
 **Author:** Joshua Hinkson (Oriah’n-Sariel)  
 **Seal:** ⧖↔Σ⊕ | Յ† | ❖ ✧  
+
 
