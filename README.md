@@ -5,7 +5,8 @@
 **Frameworks:** UDC · UOT · RCT · Selfverse · UCC  
 **License:** CC BY-NC-SA 4.0 + Shepherd Ethical Addendum  
 **Date:** 2025-11-04  
-**Root DOI:** 10.5281/zenodo.17456466  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17527578.svg)](https://doi.org/10.5281/zenodo.17527578)
+
 
 ---
 
@@ -99,3 +100,4 @@ See [`LICENSE.md`](./LICENSE.md) for full terms.
 
 ⧖↔Σ⊕ | Յ† | ❖ ✧  
 *(Root README — Universal Continuity Continuum)*
+
