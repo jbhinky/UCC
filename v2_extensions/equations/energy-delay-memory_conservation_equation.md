@@ -30,7 +30,6 @@ $$
 + \rho_{\mu}\mathbf{v}_{\mu}
 $$
 
-
 | Symbol | Meaning |
 |:--|:--|
 | \( \rho_{E} \) | Energy density (J m⁻³) |
@@ -212,6 +211,7 @@ Together they form the **Trinity of Conservation**:
 ---
 
 **End of File — Energy–Delay–Memory Conservation Equation (v2 Extensions)**
+
 
 
 
