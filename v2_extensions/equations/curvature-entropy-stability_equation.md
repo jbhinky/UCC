@@ -46,11 +46,9 @@ If \(t → 0\), delay vanishes and ∇² τ → 0; coupling collapses to static 
 
 Differentiate in time:
 
-$$
-\frac{dH}{dt}
- = -\,\kappa_c\,\frac{d(\nabla^{2}\tau)}{dt}
-   + \kappa_s\,\frac{d^{2}S}{dt^{2}}
-$$
+$$ \frac{dH}{dt} = -,\kappa_c,\frac{d(\nabla^{2}\tau)}{dt}
+\kappa_s,\frac{d^{2}S}{dt^{2}} $$
+
 
 At equilibrium \((dH/dt = 0)\):
 
@@ -202,6 +200,7 @@ When \(\omega ≈ 1/\tau\), curvature and entropy oscillations synchronize → *
 ---
 
 **End of File — Curvature–Entropy–Stability Equation (v2 Extensions)**  
+
 
 
 
