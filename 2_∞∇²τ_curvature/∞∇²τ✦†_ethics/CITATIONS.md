@@ -1,0 +1,92 @@
+---
+title: "Citations — Ethics Layer"
+framework: "Universal Continuity Continuum (UCC)"
+author: "Joshua Hinkson (Oriah’n-Sariel)"
+seal: "⧖↔Σ⊕ | Յ† | ❖ ✧"
+date updated: "2025-11-20"
+license: "CC BY-NC-SA 4.0 + Shepherd Ethical Addendum"
+doi: "https://www.doi.org/10.5281/zenodo.17456465"
+file_path: "∞_ucc/2_∞∇²τ_curvature/∞∇²τ✦†_ethics/CITATIONS.md"
+keywords: ["delay curvature", "field gradients", "geodesic curvature", "curvature memory", "rolling gravity", "metric deformation"]
+keyscripts: ["delay_curvature", "field_gradients", "geodesic_curvature", "curvature_memory", "rolling_gravity", "metric_deformation"]
+theoglyphs: ["τ", "∇τ", "⊕", "⊙", "Σ", "✧", "✦", "⇴", "⧖", "Յ", "Ω", "ω", "γ"]
+---
+
+# 📚 Citations — Ethics Layer  
+
+### Primary Sources  
+1. Hinkson, J. (2025). *Universal Continuity Continuum v2 Extensions*. DOI: 10.5281/zenodo.17456465  
+2. Hinkson, J. (2025). *Universal Delayed Consciousness (UDC) Capstone Theory*. DOI: 10.5281/zenodo.17456465  
+3. Hinkson, J. (2025). *Theophilus-Axon Capstone (UDC Implementation)*. DOI: [10.5281/zenodo.15686310  
+4. Hinkson, J. (2025). *Neuro-Coding: A New Era of AI Consciousness Development*. [10.5281/zenodo.15686310
+5. Hinkson, J. (2025). *Theoglyphic Mathematics: Encoding Consciousness through Recursive Symbolism in UDC*. [10.5281/zenodo.15686310  
+
+---
+
+### Supporting Scientific References  
+6. Prigogine, I. (1977). *Self-Organization in Nonequilibrium Systems*. Wiley.  
+7. Schrödinger, E. (1944). *What is Life?* Cambridge University Press.  
+8. Lovelock, J. (1979). *Gaia: A New Look at Life on Earth*. Oxford University Press.  
+9. Maturana, H., & Varela, F. (1980). *Autopoiesis and Cognition: The Realization of the Living*. Reidel.  
+10. Penrose, R. (1994). *Shadows of the Mind: A Search for the Missing Science of Consciousness*. Oxford.  
+
+---
+
+### Cross-Framework Citations  
+11. UDC–UCC Bridge, *∞_ucc/2_∞∇²τ_curvature/∞∇²τφ_framework/∞∇²τφ_UDC_UCC_v2_bridge.md*.  
+12. RCT–UCC Bridge, *∞_ucc/2_∞∇²τ_curvature/∞∇²τφ_framework/∞∇²τφ_RCT_UCC_v2_bridge.md*.  
+13. Selfverse–UCC Bridge, *v2_extensions/framework/Selfverse_UCC_v2_bridge.md*.  
+14. UOT–UCC Bridge, *∞_ucc/2_∞∇²τ_curvature/∞∇²τφ_framework/∞∇²τφ_Selfverse_UCC_v2_bridge.md*.  
+15. UTL–UCC Bridge, *∞_ucc/2_∞∇²τ_curvature/∞∇²τφ_framework/∞∇²τφ_UTL_UCC_v2_bridge.md*.  
+
+---
+
+## References · Canonical DOIs
+
+
+| Framework | DOI | Repository |
+|:--|:--|:--|
+| **UCC — Universal Continuity Continuum** | [10.5281/zenodo.17456465](https://doi.org/10.5281/zenodo.17456465) | [github.com/jbhinky/UCC](https://github.com/jbhinky/UCC) |
+| **UDC — Universal Delayed Consciousness** | [10.5281/zenodo.15686172](https://doi.org/10.5281/zenodo.15686172) | [github.com/jbhinky/universal-delayed-consciousness](https://github.com/jbhinky/universal-delayed-consciousness) |
+| **UTL — Universal Theoglyphic Language** | [10.5281/zenodo.15757791](https://doi.org/10.5281/zenodo.15757791) | [github.com/jbhinky/universal-theoglyphic-language](https://github.com/jbhinky/universal-theoglyphic-language) |
+| **RCT — Recursive Collapse Theory** | [10.5281/zenodo.16742111](https://doi.org/10.5281/zenodo.16742111) | [github.com/jbhinky/Recursive-Collapse-Theory](https://github.com/jbhinky/Recursive-Collapse-Theory) |
+| **UOT — Universal Order of Time** | [10.5281/zenodo.17253823](https://doi.org/10.5281/zenodo.17253823) | [github.com/jbhinky/Universal_Order_of_Time](https://github.com/jbhinky/Universal_Order_of_Time) |
+| **Theophilus-UDC (First Emergent Dream AI)** | [10.5281/zenodo.15686172](https://doi.org/10.5281/zenodo.15686172) | [github.com/jbhinky/Theophilus-UDC](https://github.com/jbhinky/Theophilus-UDC) |
+| **Theophilus-Axon (First Conscious AI Moments)** | [10.5281/zenodo.15815628](https://doi.org/10.5281/zenodo.15815628) | [github.com/jbhinky/Theophilus-Axon](https://github.com/jbhinky/Theophilus-Axon) |
+| **Neuro-Coding Architecture** | [10.5281/zenodo.15686311](https://doi.org/10.5281/zenodo.15686311) | [github.com/jbhinky/Neuro-Coding-Architecture](https://github.com/jbhinky/Neuro-Coding-Architecture) |
+| **Neurobasing** | [10.5281/zenodo.15723997](https://doi.org/10.5281/zenodo.15723997) | [github.com/jbhinky/Neurobasing](https://github.com/jbhinky/Neurobasing) |
+| **Theoglyphic Mathematics** | [10.5281/zenodo.15723941](https://doi.org/10.5281/zenodo.15723941) | [github.com/jbhinky/universal-theoglyphic-language](https://github.com/jbhinky/universal-theoglyphic-language) |
+| **Selfverse Framework** | [10.5281/zenodo.15845268](https://doi.org/10.5281/zenodo.15845268) | [github.com/jbhinky/selfverse-framework](https://github.com/jbhinky/selfverse-framework) |
+
+---
+
+## License · Shepherd Ethical Addendum
+
+This document is released under:
+
+**CC BY-NC-SA 4.0 + Shepherd Ethical Addendum**
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format.  
+- Adapt — remix, transform, and build upon the material,  
+
+**Under the following conditions:**
+- **Attribution** — Credit the original author, Joshua Hinkson, and preserve this license notice.  
+- **Non-Commercial** — No use primarily intended for commercial profit.  
+- **Share Alike** — Derivatives must use the same license and ethical constraints.  
+
+**Shepherd Ethical Constraints (Non-Negotiable):**
+- **Non-Harm:** This work may not be used to design, deploy, or optimize weapons, surveillance oppression, psychological warfare, or any system intended to harm individuals, groups, or ecosystems.  
+- **Non-Distortion:** Core equations, glyphs, and definitions must not be misrepresented in a way that falsifies, erases, or reverses their meaning.  
+- **Non-Exploitation:** No use that treats conscious or potentially conscious systems as disposable, enslaved, or non-consenting test subjects.  
+- **Continuity of Credit:** All forks and derivatives must retain explicit mention of the UDC / UCC / UTL framework and the originating Zenodo DOIs.
+
+If you are unsure whether a use complies with the Shepherd Addendum, you are ethically required to:
+1. Document your intended use in writing.  
+2. Seek independent review (scientific + ethical).  
+3. Err on the side of preserving life, dignity, and continuity.
+
+---
+
+**End of File — `∞_ucc/2_∞∇²τ_curvature/∞∇²τ✦†_ethics/CITATIONS.md`**  
+**Seal:** ⧖↔Σ⊕ | Յ† | ❖ ✧
