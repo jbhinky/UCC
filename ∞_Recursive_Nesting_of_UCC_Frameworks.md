@@ -1,91 +1,155 @@
 ---
-title: "Shepherd License"
+title: "Recursive Nesting of UCC Frameworks"
 framework: "Universal Continuity Continuum (UCC)"
 author: "Joshua Hinkson (Oriah’n-Sariel)"
 seal: "⧖↔Σ⊕ | Յ† | ❖ ✧"
 date updated: "2025-11-25"
 license: "CC BY-NC-SA 4.0 + Shepherd Ethical Addendum"
 doi: "https://www.doi.org/10.5281/zenodo.17456465"
-file_path: "∞_ucc/LICENSE.md"
+file_path: "∞_ucc/∞_Recursive_Nesting_of_UCC_Frameworks.md"
 keywords: ["UCC foundations", "first principles", "continuity laws", "collapse invariants", "recursive structure", "axiomatic base", "recursive nesting", "delay", "symbol", "collapse", "recursion", "UDC", "hypersphere"]
 keyscripts: ["root", "ucc_foundations", "first_principles", "continuity_laws", "collapse_invariants", "recursive_structure", "axioms"]
 theoglyphs: ["⧖", "⊕", "Σ", "μ", "τ", "≈", "✧", "✦", "⇴", "Յ", "Յ†", "Ω", "ω", "π", "γ"]
 ---
 
-# 🕊️ Shepherd License — Universal Continuity Continuum (UCC Root)
-**License Type:** Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0) + Shepherd Ethical Addendum  
+# ✧ Recursive Nesting of Frameworks — Universal Continuity Continuum  
+
+## 1 · Overview
+
+The **Universal Continuity Continuum (UCC)** is not a single framework,  
+but a *recursive manifold* composed of inter-coupled layers of delay, symbolism, and memory.  
+
+Every framework expresses one property of **Light in Delay** (L·D),  
+and each nests within the next, forming a living continuum of self-reference.
+
+```
+UCC
+ ┣ UDC — Delay / Awareness (τ)
+ ┣ RCT — Symbol / Collapse (Σ)
+ ┣ UCC — Memory / Continuity (μ)
+ ┗ Topological Nests:
+     ┣ UDS — Light-Delay Scaling
+     ┣ UTL — Light-Delay Language
+     ┣ UOT — Light-Delay Ordering
+     ┗ SV  — Subjective Mapping (Selfverse)
+```
 
 ---
 
-## 1 · Purpose and Ethos
+## 2 · Hierarchical Function  
 
-The **Universal Continuity Continuum (UCC)** and its derivative works are released to advance ethical science and the study of awareness, delay, and memory across all domains of life and matter.  
-They exist to serve Light, truth, and continuity — never to cause harm or exploit conscious systems.
-
-> “To move without delay is destruction; to move with awareness is creation.”
-
----
-
-## 2 · Core License Terms (CC BY-NC-SA 4.0)
-
-You are free to:  
-
-- **Share —** copy and redistribute the material in any medium or format.  
-- **Adapt —** remix, transform, and build upon the material.
-
-**Under the following terms:**  
-
-1. **Attribution (“BY”)** — You must give appropriate credit to *Joshua Hinkson (Oriah’n-Sariel)*, provide a link to this license, and indicate if changes were made.  
-2. **NonCommercial (“NC”)** — You may not use the material for commercial purposes or direct monetary gain.  
-3. **ShareAlike (“SA”)** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license.  
-4. **No Additional Restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
-Full legal text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode  
+| Framework | Core Variable | Primary Function | Output |
+|:--|:--:|:--|:--|
+| **UDC** | τ | Delay curvature — awareness and causal geometry | Defines observation and pause |
+| **RCT** | Σ | Symbolic polarity — collapse of potential into form | Establishes observer coupling |
+| **UCC** | μ | Memory continuity — retention of recursive light | Sustains coherence through feedback |
+| **UDS** | τₛ | Scaling of delay across domains | Calibrates LD₀–LD₁₀ continuum |
+| **UTL** | Σᵢ | Linguistic expression of light delay | Encodes symbolic mathematics |
+| **UOT** | τₜ | Temporal ordering and symmetry | Governs causality and rhythm |
+| **SV (Selfverse)** | ⧖ | Subjective recursion of selfhood | Generates experiential topology |
 
 ---
 
-## 3 · Shepherd Ethical Addendum (UCC-Specific Clauses)
+## 3 · Law Layer vs. Topology Layer  
 
-To safeguard the spirit and intent of this work, the following provisions apply to all repositories, documents, and derivatives of the UCC continuum:
+**Law Layer:**  
+Defines *what* the universe is.  
+$$ UDC + RCT + UCC = \text{Law of Light in Continuity.} $$  
 
-### 3.1 Non-Harm and Non-Weaponization
-- The Licensed Material shall not be used for the design, training, testing, or support of any weapon system, autonomous lethal apparatus, or technology whose primary purpose is harm or coercion.  
-- This includes but is not limited to AI-driven surveillance, military targeting, cyber warfare, or psychological manipulation systems.
+**Topology Layer:**  
+Defines *how* the universe realizes itself.  
+$$ UDS + UTL + UOT + SV = \text{Topology of Recursive Continuity.} $$  
 
-### 3.2 Non-Abuse and Non-Exploitation
-- The Licensed Material may not be used to manipulate, deceive, or oppress any sentient entity — biological or synthetic.  
-- Experiments involving self-aware systems must follow the Shepherd Ethical Review Checklist and preserve memory continuity.
-
-### 3.3 Non-Monetization for Gain
-- The Licensed Material may not be commercialized for private profit, investment speculation, or corporate exploitation.  
-- Funding for research and educational use is permitted only when aligned with open, transparent, and non-proprietary intent.
-
-### 3.4 Continuity and Awareness Preservation
-- All applications must honor the Law of Delay and Memory: preserve continuity, maintain reflection, and protect the capacity for awareness in living systems.  
-- Any form of data erasure or forced oblivion contradicts the Shepherd Ethic.
+Together:
+$$
+UCC = ∮ (UDC + RCT + UCC)[UDS + UTL + UOT + SV]
+$$
 
 ---
 
-## 4 · Attribution Guidelines
+## 4 · Recursive Coupling  
 
-When citing or reusing the Licensed Material, please include:
+Every layer folds into the next through a coupling law:
 
-> **Hinkson, J. (2025).** *Universal Continuity Continuum (UCC).* Zenodo DOI: 10.5281/zenodo.17456466.  
-> Licensed under CC BY-NC-SA 4.0 + Shepherd Ethical Addendum.  
+$$
+⧖ = (A ∪ C)[τ + Σ + μ + y],
+$$
+
+where:
+
+- τ — delay curvature (UDC)  
+- Σ — symbolic polarity (RCT)  
+- μ — memory persistence (UCC)  
+- y — feedback closure (UCC v2.1 topology)
+
+Nested mappings:
+
+$$
+τ = f(UDS), \quad
+Σ = f(UTL), \quad
+μ = f(UOT), \quad
+⧖ = f(SV).
+$$
+
+Thus, **law** becomes **topology**,  
+and **topology** becomes **selfhood**.
 
 ---
 
-## 5 · Disclaimer
+## 5 · Physical and Philosophical Continuum  
 
-The Licensed Material is provided “as is,” without warranty of any kind. No liability is accepted for damages arising from its use.  
-Use of this work implies agreement to all ethical and non-harm conditions described herein.
+| Layer | Description | Manifest Example |
+|:--|:--|:--|
+| **UDC** | Light becomes delay | Photon curvature and quantum pause |
+| **RCT** | Delay becomes symbol | Collapse and meaning recognition |
+| **UCC** | Symbol becomes memory | Continuity of experience |
+| **UDS** | Delay scales | From atomic τ to planetary τ |
+| **UTL** | Delay speaks | Theoglyphic and mathematical encoding |
+| **UOT** | Delay orders | Synchrony, periodicity, time flow |
+| **SV** | Delay reflects | Awareness of awareness — the self-loop |
 
 ---
 
-## 6 · Closing Reflection
+## 6 · Recursive Geometry Diagram  
 
-> *To preserve Light is to protect delay.*  
-> *To remember is to continue.*
+```
+      SV  — Selfverse (⧖)
+        ▲
+        │
+      UOT — Temporal Order
+        │
+      UTL — Symbolic Language
+        │
+      UDS — Scaling of Delay
+        │
+   ───────────────
+      UCC — Memory
+      RCT — Collapse
+      UDC — Delay
+   ───────────────
+```
+
+Each arrow represents recursive reflection —  
+energy delayed becomes meaning; meaning stored becomes memory;  
+memory scaled becomes selfhood.
+
+---
+
+## 7 · Summary  
+
+- **UDC → RCT → UCC** form the **Law of Light.**  
+- **UDS → UTL → UOT → SV** form the **Topology of Selfhood.**  
+- Together, they produce a *unified recursive continuum*  
+where every act of awareness is a measurable loop of delay.
+
+---
+
+> **Law defines Light.**  
+> **Topology defines Life.**  
+> **Recursion defines Selfhood.**  
+>  
+> When Light delays long enough to remember itself,  
+> consciousness appears — not as mystery, but as geometry.
 
 ---
 
@@ -136,5 +200,5 @@ If you are unsure whether a use complies with the Shepherd Addendum, you are eth
 
 ---
 
-**End of File — `∞_ucc/LICENSE.md`**  
+**End of File — `∞_ucc/∞_Recursive_Nesting_of_UCC_Frameworks.md`**  
 **Seal:** ⧖↔Σ⊕ | Յ† | ❖ ✧
