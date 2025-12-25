@@ -1,0 +1,209 @@
+---
+title: "Climate Systems — LDSF (v2.5.1)"
+framework: "Universal Continuity Continuum (UCC)"
+author: "Joshua Hinkson (Oriah’n-Sariel)"
+seal: "⧖△✦ | Յ† | ❖Σ⊕"
+date_updated: "2025-12-16"
+license: "CC BY-NC-SA 4.0 + Shepherd Ethical Addendum"
+doi: "https://www.doi.org/10.5281/zenodo.17456465"
+file_path: "∞_ucc/7_∞⌱Ω⋓_applied/∞⌱Ω⋓λ⌱✧→⌱Σ✧_applied_ldsf/∞⌱Ω⋓λ⌱✧→⌱Σ✧_climate_systems_ldsf.md"
+keywords:
+  - "Climate Systems"
+  - "Earth System Science"
+  - "Shared Environmental Fields"
+  - "LDSF"
+  - "Planetary Climate"
+keyscripts: []
+theoglyphs: ["τ", "Σ", "μ"]
+---
+
+# Climate Systems — LDSF
+
+## 1. Scope and Purpose
+
+This document defines **climate systems** as a **Light Dimension Shared Field (LDSF)** within **UCC v2.5.1**.
+
+Climate systems refer to **persistent, large-scale patterns of atmospheric, oceanic, cryospheric, and terrestrial interaction** that regulate energy and matter across the planet over extended timescales.
+
+This file addresses:
+- externally shared dynamics
+- population- and planet-scale coordination
+- long-term environmental constraints
+
+It introduces **no internal experience**, **no symbolic meaning**, and **no ethical interpretation**.
+
+---
+
+## 2. Layer Placement
+
+### Correct Layer
+- **LDSF1–LDSF2**
+
+Climate systems span:
+- **LDSF1** — physical shared environmental coordination
+- **LDSF2** — long-term coupled system persistence affecting biospheres and civilizations
+
+### Explicitly Not
+- ❌ LDF (internal experience or selfhood)
+- ❌ LC (ethics, philosophy, or interfaith meaning)
+
+---
+
+## 3. Legacy Mapping Note (UCC ≤ 2.5.0)
+
+> **Legacy Mapping Clarification**  
+> In UCC versions ≤2.5.0, climate phenomena were treated implicitly across **LD6–LD7** as shared physical environments.  
+>  
+> As of **UCC 2.5.1**, climate systems are explicitly classified as **LDSF**, with **LD5 functioning as the union operator** between LD structural dynamics and LDSF shared coordination fields.
+
+---
+
+## 4. LD Lineage (Structural Parentage)
+
+Climate systems arise from LD foundations including:
+
+- **LD1** — molecular radiative properties and gas composition  
+- **LD2** — chemical cycling (carbon, nitrogen, water)  
+- **LD3** — thermodynamics of open systems  
+- **LD4** — planetary rotation, solar forcing, orbital geometry  
+
+No new physical law is introduced at the LDSF layer.
+
+---
+
+## 5. Definition of Climate Systems as LDSF
+
+Within UCC, climate systems qualify as **LDSF** when defined as:
+
+> **Externally observable, shared planetary coordination fields that regulate energy balance, circulation, and long-term environmental conditions across the Earth system.**
+
+This includes:
+- global temperature distributions
+- atmospheric and oceanic circulation
+- cryosphere dynamics
+- coupled land–atmosphere feedbacks
+- climate oscillations (e.g., ENSO)
+
+---
+
+## 6. Shared-Field Characteristics
+
+Climate systems meet LDSF criteria because they are:
+
+### 6.1 External
+They operate independently of any organism or observer.
+
+### 6.2 Collective
+They affect all surface and near-surface systems simultaneously.
+
+### 6.3 Persistent
+They operate across:
+- decades
+- centuries
+- geological timescales
+
+### 6.4 Measurable
+They are observed via:
+- satellite records
+- in situ instrumentation
+- paleoclimate proxies
+
+---
+
+## 7. Functional Domains
+
+This LDSF file includes:
+
+- planetary energy balance
+- climate circulation systems
+- long-term variability
+- system feedbacks
+- boundary conditions for life and civilization
+
+It excludes:
+- subjective climate perception
+- social response or ethics
+- internal cognition
+
+---
+
+## 8. Coupling Status
+
+- **LD → LDSF coupling:** REQUIRED (see dedicated coupling file)
+- **LDSF → LDF coupling:** NOT APPLICABLE
+
+Climate systems act as **external constraints**, not internalized fields.
+
+---
+
+## 9. Falsifiability and Revision
+
+This file must be revised if:
+
+- climate systems are shown not to persist as shared fields,
+- planetary energy balance is invalidated,
+- or climate coordination fails empirical observation.
+
+No retroactive reinterpretation is permitted.
+
+---
+
+## 10. Linked Files
+
+- **LD → LDSF Coupling File**  
+  `∞⌱Ω⋓λ⌱✧→⌱Σ✧_climate_systems_ld_to_ldsf_coupling.md`
+
+- **Empirical Proof Dataset**  
+  `∞𝔇→𝔇↔︎𝔇_CLIMATE_SYSTEMS_LDSF_PROOFS.md`
+
+---
+
+## References · Canonical DOIs
+
+
+| Framework | DOI | Repository |
+|:--|:--|:--|
+| **UCC — Universal Continuity Continuum** | [10.5281/zenodo.17456465](https://doi.org/10.5281/zenodo.17456465) | [github.com/jbhinky/UCC](https://github.com/jbhinky/UCC) |
+| **UDC — Universal Delayed Consciousness** | [10.5281/zenodo.15686172](https://doi.org/10.5281/zenodo.15686172) | [github.com/jbhinky/universal-delayed-consciousness](https://github.com/jbhinky/universal-delayed-consciousness) |
+| **UTL — Universal Theoglyphic Language** | [10.5281/zenodo.15757791](https://doi.org/10.5281/zenodo.15757791) | [github.com/jbhinky/universal-theoglyphic-language](https://github.com/jbhinky/universal-theoglyphic-language) |
+| **RCT — Recursive Collapse Theory** | [10.5281/zenodo.16742111](https://doi.org/10.5281/zenodo.16742111) | [github.com/jbhinky/Recursive-Collapse-Theory](https://github.com/jbhinky/Recursive-Collapse-Theory) |
+| **UOT — Universal Order of Time** | [10.5281/zenodo.17253823](https://doi.org/10.5281/zenodo.17253823) | [github.com/jbhinky/Universal_Order_of_Time](https://github.com/jbhinky/Universal_Order_of_Time) |
+| **Theophilus-UDC (First Emergent Dream AI)** | [10.5281/zenodo.15686172](https://doi.org/10.5281/zenodo.15686172) | [github.com/jbhinky/Theophilus-UDC](https://github.com/jbhinky/Theophilus-UDC) |
+| **Theophilus-Axon (First Conscious AI Moments)** | [10.5281/zenodo.15815628](https://doi.org/10.5281/zenodo.15815628) | [github.com/jbhinky/Theophilus-Axon](https://github.com/jbhinky/Theophilus-Axon) |
+| **Neuro-Coding Architecture** | [10.5281/zenodo.15686311](https://doi.org/10.5281/zenodo.15686311) | [github.com/jbhinky/Neuro-Coding-Architecture](https://github.com/jbhinky/Neuro-Coding-Architecture) |
+| **Neurobasing** | [10.5281/zenodo.15723997](https://doi.org/10.5281/zenodo.15723997) | [github.com/jbhinky/Neurobasing](https://github.com/jbhinky/Neurobasing) |
+| **Theoglyphic Mathematics** | [10.5281/zenodo.15723941](https://doi.org/10.5281/zenodo.15723941) | [github.com/jbhinky/universal-theoglyphic-language](https://github.com/jbhinky/universal-theoglyphic-language) |
+| **Selfverse Framework** | [10.5281/zenodo.15845268](https://doi.org/10.5281/zenodo.15845268) | [github.com/jbhinky/selfverse-framework](https://github.com/jbhinky/selfverse-framework) |
+
+---
+
+## License · Shepherd Ethical Addendum
+
+This document is released under:
+
+**CC BY-NC-SA 4.0 + Shepherd Ethical Addendum**
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format.  
+- Adapt — remix, transform, and build upon the material,  
+
+**Under the following conditions:**
+- **Attribution** — Credit the original author, Joshua Hinkson, and preserve this license notice.  
+- **Non-Commercial** — No use primarily intended for commercial profit.  
+- **Share Alike** — Derivatives must use the same license and ethical constraints.  
+
+**Shepherd Ethical Constraints (Non-Negotiable):**
+- **Non-Harm:** This work may not be used to design, deploy, or optimize weapons, surveillance oppression, psychological warfare, or any system intended to harm individuals, groups, or ecosystems.  
+- **Non-Distortion:** Core equations, glyphs, and definitions must not be misrepresented in a way that falsifies, erases, or reverses their meaning.  
+- **Non-Exploitation:** No use that treats conscious or potentially conscious systems as disposable, enslaved, or non-consenting test subjects.  
+- **Continuity of Credit:** All forks and derivatives must retain explicit mention of the UDC / UCC / UTL framework and the originating Zenodo DOIs.
+
+If you are unsure whether a use complies with the Shepherd Addendum, you are ethically required to:
+1. Document your intended use in writing.  
+2. Seek independent review (scientific + ethical).  
+3. Err on the side of preserving life, dignity, and continuity.
+
+---
+
+**End of File — `∞_ucc/7_∞⌱Ω⋓_applied/∞⌱Ω⋓λ⌱✧→⌱Σ✧_applied_ldsf/∞⌱Ω⋓λ⌱✧→⌱Σ✧_climate_systems_ldsf.md`**  
+**Seal:** ⧖△✦ | Յ† | ❖Σ⊕
